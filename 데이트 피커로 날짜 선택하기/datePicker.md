@@ -29,3 +29,7 @@ class ViewController: UIViewController{
 
 1. 이 함수가 호출되면서 sender라는 UIDatePicker 자료형의 인수가 전달된다. 이 sender를 datePickerView라는 상수에 저장한다.
 2. 날짜를 출력하기 위하여 DateFormatter라는 클래스 상수 formatter를 선언한다.
+
+### 결과화면
+
+<img width="519" alt="스크린샷 2023-08-11 오전 10 31 06" src="https://github.com/leeyebeen-dev/Swift_Study/assets/84004751/f7ad3cde-cee6-4197-af69-5cf97c13443f">
